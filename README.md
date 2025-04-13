@@ -5,13 +5,13 @@
 
 # Procesamiento en tiempo real (Spark Streaming & Kafka): 
 
-[x] Configurar un topic en Kafka para simular la llegada de datos en tiempo real (usar un generador de datos). 
+- [x] Configurar un topic en Kafka para simular la llegada de datos en tiempo real (usar un generador de datos). 
 
-[x] Implementar una aplicación Spark Streaming que consuma datos del topic de Kafka. 
+- [x] Implementar una aplicación Spark Streaming que consuma datos del topic de Kafka. 
 
-[x] Realizar algún tipo de procesamiento o análisis sobre los datos en tiempo real (contar eventos, calcular estadísticas, etc.). 
+- [x] Realizar algún tipo de procesamiento o análisis sobre los datos en tiempo real (contar eventos, calcular estadísticas, etc.). 
 
-[x] Visualizar los resultados del procesamiento en tiempo real. 
+- [x] Visualizar los resultados del procesamiento en tiempo real. 
 
 # Instalación y configuración de `Python`, `Kafka`,  y `ZooKeeper` en la máquina virtual configurada con `Hadoop` y `Spark`, utilizando `PuTTY`:
 
